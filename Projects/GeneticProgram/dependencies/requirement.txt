@@ -1,0 +1,13 @@
+pandas
+numpy
+scipy
+sklearn
+gplearn
+deap
+pyarrow
+seaborn
+tensorflow
+jqdatasdk
+tqdm
+hurst
+
